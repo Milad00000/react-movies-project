@@ -1,0 +1,8 @@
+// Watched 
+export const ADD_TO_WATCHLIST = 'ADD_TO_WATCHLIST';
+export const REMOVE_FROM_WATCHLIST = 'REMOVE_FROM_WATCHLIST';
+// Watched 
+export const ADD_TO_WATCHED = 'ADD_TO_WATCHED';
+export const REMOVE_FROM_WATCHED = 'REMOVE_FROM_WATCHED';
+// ....
+export const ADD_MOVIE_TO_WATCHLIST = 'ADD_MOVIE_TO_WATCHLIST';
